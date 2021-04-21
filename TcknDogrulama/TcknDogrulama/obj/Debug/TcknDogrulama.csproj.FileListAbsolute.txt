@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\4.18.2021\TcknDogrulama\TcknDogrulama\bin\Debug\TcknDogrulama.exe.config
+C:\Users\User\Desktop\YenidenC#\4.18.2021\TcknDogrulama\TcknDogrulama\bin\Debug\TcknDogrulama.exe
+C:\Users\User\Desktop\YenidenC#\4.18.2021\TcknDogrulama\TcknDogrulama\bin\Debug\TcknDogrulama.pdb
+C:\Users\User\Desktop\YenidenC#\4.18.2021\TcknDogrulama\TcknDogrulama\obj\Debug\TcknDogrulama.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\4.18.2021\TcknDogrulama\TcknDogrulama\obj\Debug\TcknDogrulama.Form1.resources
+C:\Users\User\Desktop\YenidenC#\4.18.2021\TcknDogrulama\TcknDogrulama\obj\Debug\TcknDogrulama.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\4.18.2021\TcknDogrulama\TcknDogrulama\obj\Debug\TcknDogrulama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\4.18.2021\TcknDogrulama\TcknDogrulama\obj\Debug\TcknDogrulama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\4.18.2021\TcknDogrulama\TcknDogrulama\obj\Debug\TcknDogrulama.exe
+C:\Users\User\Desktop\YenidenC#\4.18.2021\TcknDogrulama\TcknDogrulama\obj\Debug\TcknDogrulama.pdb
